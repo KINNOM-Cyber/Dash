@@ -1,0 +1,36 @@
+{
+  "name": "dash_assistance",
+  "version": "2.0.0",
+  "description": "dash for assistance",
+  "main": "index.js",
+  "license": "ICS",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "axios": "^0.21.1",
+    "corona.js": "0.0.0",
+    "discord-nuke-bot": "^1.0.1",
+    "discord-ytdl-core": "^5.0.1",
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "images-scraper": "^6.3.0",
+    "lyrics-finder": "^21.4.0",
+    "mathjs": "^9.3.2",
+    "moment": "^2.29.1",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "quick.db": "^7.1.3",
+    "reconlx": "^1.2.41",
+    "weather-js": "^2.0.0",
+    "yt-search": "^2.2.4",
+    "ytdl-core": "^4.1.1"
+  }
+}
